@@ -146,18 +146,6 @@ class Fun():
         await self.bot.say(msg[::-1])
 
     @commands.command(pass_context=True)
-    async def yaoi(self, ctx):
-        """gud shit"""
-        await self.bot.send_typing(ctx.message.channel)
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/yaoi.png")
-
-    @commands.command(pass_context=True)
-    async def nineteendays(self, ctx):
-        """gud shit"""
-        await self.bot.send_typing(ctx.message.channel)
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/nineteendays.png")
-
-    @commands.command(pass_context=True)
     async def fujoshi(self, ctx):
         """gud shit"""
         await self.bot.send_typing(ctx.message.channel)
