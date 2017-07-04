@@ -134,11 +134,8 @@ class Fun():
 
     @commands.command(pass_context=True)
     async def headpat(self, ctx):
-        """Posts a random headpat from headp.at"""
-        pats = json.loads(requests.get("http://headp.at/js/pats.json").json())
-        pat = random.choice(pats)
-        file = url_to_bytes("http://headp.at/pats/{}".format(pat))
-        await self.bot.send_file(ctx.message.channel, file["content"], filename=file["filename"])
+        """You have recieved a pat"""
+        await self.bot.send_typing(ctx.message.channel)
 
     @commands.command()
     async def reverse(self, *, msg:str):
