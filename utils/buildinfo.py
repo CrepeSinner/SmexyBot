@@ -1,4 +1,5 @@
-BUILD_VERSION = "13.0"
-BUILD_AUTHORS = "Seth#0051 and based robin#0052"
-BUILD_CODENAME = "Wish we could turn back time... to the good old days"
-BUILD_DATE = "June 2nd, 2017 at 1:25 PM GMT -7:00"
+BUILD_VERSION = "15.2.2"
+BUILD_AUTHORS = "WisdomChuck#7806, modified by ZeroEpoch1969#0051 and originally based by robin#0052"
+BUILD_CODENAME = "nugget"
+BUILD_DATE = "December 28th, 2019 at 11:41 PM GMT -5:00"
+TRANSLATORS = {"based robin#0052":"Spanish", "BibleRule#9942":"Hebrew", "Timanttikuutio#1964":"Finnish", "Ele_#0400":"Spanish", "Naratna#1674":"French"}

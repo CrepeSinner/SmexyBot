@@ -1,42 +1,42 @@
 {
-  "name": "SmexyBot",
-  "description": "A discord bot based on heroku deployment",
-  "image": "heroku/python",
-  "repository": "https://github.com/CrepeSinner/SmexyBot.git",
-  "keywords": [
-    "python",
-    "django"
-  ],
-  "env": {
-    "token": {
-      "description": "The secret key for the worker application.",
-      "value": "${token}"
+    "name": "ChatBot",
+    "description": "A Chat discord bot based on heroku deployment",
+    "image": "heroku/python",
+    "repository": "https://github.com/CrepeSinner/SmexyBot.git",
+    "keywords": [
+        "python",
+        "django"
+    ],
+    "env": {
+        "token": {
+            "description": "The secret key for the worker application.",
+            "value": "${token}"
+        }
+        "owner": {
+            "description": "Discord Bot ID",
+            "value": "${owner}"
+        }
+        "developer": {
+            "description": "Developers Discord ID",
+            "value": "${developer}"
+        }
     },
-    "owner": {
-      "description": "Discord Bot ID",
-      "value": "${owner}"
-    },
-    "developer": {
-      "description": "Developer Discord ID",
-      "value": "${owner}"
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        },
+        {
+            "url": "https://github.com/xrisk/heroku-opus.git"
+        }
+    ],
+    "environments": {
+        "dev": {
+            "scripts": {
+                "dev": "bash run.sh"
+            }
+        }
     }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/python"
-    },
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-    },
-    {
-      "url": "https://github.com/xrisk/heroku-opus.git"
-    }
-  ],
-  "environments": {
-    "dev": {
-      "scripts": {
-        "dev": "bash run.sh"
-      }
-    }
-  }
 }

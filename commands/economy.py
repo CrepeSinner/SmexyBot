@@ -9,8 +9,7 @@ from datetime import datetime, timedelta
 
 config = Config()
 
-
-class Economy(commands.Cog):
+class Economy():
     def __init__(self, bot):
         self.bot = bot
 
@@ -111,7 +110,7 @@ class Economy(commands.Cog):
 
     @commands.command(pass_context=True)
     async def dailyroses(self, ctx):
-        """Get your daily roses. You can only run this once every 20 hours."""
+        """Get your daily roses. You can only run this once every 24 hours."""
         await self.bot.send_typing(ctx.message.channel)
         now = datetime.now()
         last = get_eco_data_entry(ctx.message.author, "lastdailyroses")
@@ -124,7 +123,7 @@ class Economy(commands.Cog):
                 hour, minute = divmod(minute, 60)
                 await self.bot.say("You have {} hours, {} minutes, and {} seconds remaining until you can use this command again.".format(hour, minute, second))
                 return
-            wait_time = now + timedelta(hours=20)
+            wait_time = now + timedelta(hours=24)
             update_eco_data_entry(ctx.message.author, "lastdailyroses", wait_time.timestamp())
             add_roses(ctx.message.author, daily_rose_amount)
             await self.bot.say("You've been given your daily {} roses!".format(format_currency(daily_rose_amount)))

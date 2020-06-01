@@ -28,7 +28,7 @@ from utils.mysql import *
 from utils.buildinfo import *
 
 config = Config()
-log.setupRotator(config.log_dateformat, config.log_timeformat)
+log.setupRotator(config.log_date_format, config.log_time_format)
 if config.debug:
     log.enableDebugging() # pls no flame
 bot = commands.Bot(command_prefix=config.command_prefix, description="A multi-purpose Ruby Rose from RWBY themed discord bot", pm_help=True)
@@ -36,8 +36,9 @@ channel_logger = Channel_Logger(bot)
 aiosession = aiohttp.ClientSession(loop=bot.loop)
 lock_status = config.lock_status
 
-#extensions = ["commands.fun", "commands.information", "commands.moderation", "commands.configuration", "commands.rwby", "commands.nsfw", "commands.music", "commands.reactions", "commands.economy", "commands.ranking"]
-extensions = ["commands.fun", "commands.information", "commands.moderation", "commands.configuration", "commands.rwby", "commands.nsfw", "commands.reactions", "commands.economy"]
+extensions = ["commands.fun", "commands.information", "commands.moderation", "commands.configuration", #"commands.music", 
+              "commands.rwby", "commands.nsfw", "commands.reactions", "commands.economy", "commands.ranking"]
+
 # Thy changelog
 change_log = [
     "Side note: Read r!econotice because I still need suggestions for the eco system.",
@@ -68,7 +69,7 @@ async def _restart_bot():
     except:
        pass
     await bot.logout()
-    subprocess.call([sys.executable, "bot.py"])
+    subprocess.call([sys.executable, "app.py"])
 
 async def _shutdown_bot():
     try:
