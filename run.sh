@@ -9,4 +9,4 @@ python3.6 -V > /dev/null 2>&1 || {
 sed "s/Token =/Token = $token/" "s/Owner_ID =/Owner_ID = $owner" "s/Developer_IDs =/Developer_IDs = $developer" config/config.ini > config/config.ini.new
 mv config/config.ini.new config/config.ini
 
-python3.6 bot.py
+python3.6 app.py
