@@ -6,6 +6,7 @@ python3.6 -V > /dev/null 2>&1 || {
 	exit 1; }
 
 # Heroku config var handling...
+cp config/config.example config/config.ini
 sed "s/Token =/Token = $token/;s/Owner_ID =/Owner_ID = $owner;s/Developer_IDs =/Developer_IDs = $developer" config/config.ini > config/config.ini.new
 mv config/config.ini.new config/config.ini
 
