@@ -37,7 +37,7 @@ aiosession = aiohttp.ClientSession(loop=bot.loop)
 lock_status = config.lock_status
 
 #extensions = ["commands.fun", "commands.information", "commands.moderation", "commands.configuration", "commands.rwby", "commands.nsfw", "commands.music", "commands.reactions", "commands.economy", "commands.ranking"]
-extensions = ["commands.fun", "commands.information", "commands.moderation", "commands.configuration", "commands.rwby", "commands.nsfw", "commands.reactions", "commands.economy", "commands.ranking"]
+extensions = ["commands.fun", "commands.information", "commands.moderation", "commands.configuration", "commands.rwby", "commands.nsfw", "commands.reactions", "commands.economy"]
 # Thy changelog
 change_log = [
     "Side note: Read r!econotice because I still need suggestions for the eco system.",
