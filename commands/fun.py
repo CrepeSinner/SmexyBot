@@ -12,7 +12,8 @@ from utils import imagetools
 from PIL import Image
 #from cleverbot import Cleverbot
 
-class Fun():
+
+class Fun(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         #self.cb = Cleverbot()

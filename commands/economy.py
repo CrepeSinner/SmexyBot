@@ -9,7 +9,8 @@ from datetime import datetime, timedelta
 
 config = Config()
 
-class Economy():
+
+class Economy(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 

@@ -15,7 +15,8 @@ config = Config()
 halloween = date(2017, 10, 31)
 christmas = date(2017, 12, 25)
 
-class Information():
+
+class Information(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 

@@ -3,7 +3,8 @@ from utils.mysql import *
 from utils.tools import *
 from utils import checks
 
-class Configuration():
+
+class Configuration(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 

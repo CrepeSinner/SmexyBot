@@ -6,7 +6,8 @@ from utils.channel_logger import Channel_Logger
 from utils.tools import *
 from utils import checks
 
-class Moderation():
+
+class Moderation(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         self.logger = Channel_Logger(bot)
