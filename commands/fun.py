@@ -373,19 +373,19 @@ class Fun(commands.Cog):
     async def jesus(self, ctx):
         """jesus"""
         await ctx.channel.trigger_typing()
-        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/jesus.jpg"))
+        await ctx.send(file=discord.File("assets/imgs/jesus.jpg"))
 
     @commands.command()
     async def kegs(self, ctx):
         """kegs"""
         await ctx.channel.trigger_typing()
-        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/kegs.png"))
+        await ctx.send(file=discord.File("assets/imgs/kegs.png"))
 
     @commands.command()
     async def sendnewts(self, ctx):
         """send me newts"""
         await ctx.channel.trigger_typing()
-        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/newts.png"))
+        await ctx.send(file=discord.File("assets/imgs/newts.png"))
         await ctx.send("Send me newts, yeh?!")
 
     @commands.command()
@@ -398,7 +398,7 @@ class Fun(commands.Cog):
     async def lemmesmash(self, ctx):
         """send me newts"""
         await ctx.channel.trigger_typing()
-        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/lemmesmash.gif"))
+        await ctx.send(file=discord.File("assets/imgs/lemmesmash.gif"))
         await ctx.send("You want sum fuk?")
 
     @commands.command()
