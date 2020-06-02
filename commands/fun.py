@@ -2,6 +2,7 @@ import asyncio
 import cat
 import os
 import hashlib
+import ffmpy
 
 from discord.ext import commands
 from utils.tools import *
@@ -406,8 +407,15 @@ class Fun(commands.Cog):
     async def rekt(self, ctx):
         """#REKT"""
         await ctx.channel.trigger_typing()
-        with open('assets/imgs/reactions/rekt.gif', 'rb') as fp:
-            await ctx.channel.send(file=discord.File(fp, 'rekt.gif'))
+        """ convert animated gif into MP4 to support discord lame ass """
+        ff = ffmpy.FFmpeg(
+            input={'assets/imgs/reactions/rekt.gif': None},
+            output={'assets/imgs/reactions/rekt.mp4': None}
+        )
+        ff.run()
+
+        with open('assets/imgs/reactions/rekt.mp4', 'rb') as fp:
+            await ctx.channel.send(file=discord.File(fp, 'rekt.mp4'))
 
     @commands.command()
     async def roasted(self, ctx):

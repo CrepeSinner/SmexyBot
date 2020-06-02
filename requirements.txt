@@ -9,6 +9,7 @@ python-nmap
 random-cat
 pythonwhois
 pillow
+ffmpy
 requests
 steam
 lxml
