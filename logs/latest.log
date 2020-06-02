@@ -1,0 +1,215 @@
+06-07-2017 20:54:18 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *thonk
+06-07-2017 20:57:21 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *pay
+06-07-2017 20:57:21 [ERROR] An error occured while executing the pay command: user is a required argument that is missing.
+06-07-2017 20:58:03 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *ecostats
+06-07-2017 20:58:53 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *ecostats
+06-07-2017 20:58:54 [Command] [315278957354156033/Crepu Nation] [232664760187879435/po„„ƒ¿„„o#2472]: *thonk
+06-07-2017 20:59:32 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *pay <@!210976716095619072> 20
+06-07-2017 20:59:32 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *ecostats
+06-07-2017 20:59:43 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *pay 20
+06-07-2017 20:59:43 [ERROR] An error occured while executing the pay command: Member "20" not found
+06-07-2017 21:00:00 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *pay <@!168155070255464450> 20
+06-07-2017 21:00:17 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *pay <@!168155070255464450>  0
+06-07-2017 21:00:49 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *dailyroses
+06-07-2017 21:00:56 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *pay <@305184931309420545> 25
+06-07-2017 21:01:05 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *dailyroses
+06-07-2017 21:01:12 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *dailyroses @everyone
+06-07-2017 21:01:15 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *dailyroses
+06-07-2017 21:01:22 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *slotmachine
+06-07-2017 21:01:23 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *dailyroses
+06-07-2017 21:01:34 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:01:35 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:01:45 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:01:48 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:01:55 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:02:26 [Command] [315278957354156033/Crepu Nation] [232664760187879435/po„„ƒ¿„„o#2472]: *dailyroses
+06-07-2017 21:02:26 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:02:37 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:02:43 [Command] [315278957354156033/Crepu Nation] [232664760187879435/po„„ƒ¿„„o#2472]: *dailyroses
+06-07-2017 21:02:45 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:02:46 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:02:54 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:03:05 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *slotmachine
+06-07-2017 21:03:23 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *ecostats
+06-07-2017 21:03:24 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *ecostats
+06-07-2017 21:03:43 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *ecostats
+06-07-2017 21:03:49 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:03:58 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:04:02 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rule34
+06-07-2017 21:04:02 [ERROR] An error occured while executing the rule34 command: tags is a required argument that is missing.
+06-07-2017 21:04:09 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:04:22 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *dailyroses
+06-07-2017 21:04:28 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:04:43 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *ecostats
+06-07-2017 21:04:47 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rank
+06-07-2017 21:04:59 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:05:07 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *ecostats
+06-07-2017 21:09:10 [INFO] Reconnected to discord!
+06-07-2017 21:19:11 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:19:11 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/reactions/booti.jpg'
+06-07-2017 21:21:36 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:21:36 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:21:36 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/reactions/booti.jpg'
+06-07-2017 21:22:05 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:22:05 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/reactions/booti.jpg'
+06-07-2017 21:23:30 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *waifu
+06-07-2017 21:24:22 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *waifu
+06-07-2017 21:25:06 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:25:06 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:25:06 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/reactions/booti.png'
+06-07-2017 21:25:06 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/reactions/booti.jpg'
+06-07-2017 21:25:06 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/reactions/booti.jpg'
+06-07-2017 21:26:21 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:26:21 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:26:21 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/booti.png'
+06-07-2017 21:26:41 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:26:41 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/booti.jpg'
+06-07-2017 21:26:41 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/booti.png'
+06-07-2017 21:27:47 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:27:47 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/butt.png'
+06-07-2017 21:27:47 [ERROR] An error occured while executing the booti command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/booti.jpg'
+06-07-2017 21:30:04 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *headpat <@305184931309420545>
+06-07-2017 21:30:04 [ERROR] An error occured while executing the headpat command: Command raised an exception: TypeError: the JSON object must be str, bytes or bytearray, not 'list'
+06-07-2017 21:30:57 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rate
+06-07-2017 21:31:07 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rate <@305184931309420545>
+06-07-2017 21:31:12 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *rate
+06-07-2017 21:31:22 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rate <@!210976716095619072>
+06-07-2017 21:31:44 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rate <@305184931309420545>
+06-07-2017 21:31:46 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *rate <@!168155070255464450>
+06-07-2017 21:31:59 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *rate
+06-07-2017 21:32:03 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rate <@137387912965783554>
+06-07-2017 21:32:27 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *rate <@314137102713618442>
+06-07-2017 21:32:52 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *rate <@305184931309420545>
+06-07-2017 21:32:58 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *talk
+06-07-2017 21:33:07 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *rate
+06-07-2017 21:33:22 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *insult
+06-07-2017 21:33:22 [ERROR] An error occured while executing the insult command: user is a required argument that is missing.
+06-07-2017 21:33:54 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *thonk
+06-07-2017 21:34:25 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *hoodaf
+06-07-2017 21:34:43 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *psat
+06-07-2017 21:34:50 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *psat
+06-07-2017 21:35:04 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *psat
+06-07-2017 21:35:25 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *lenny
+06-07-2017 21:35:28 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *lenny
+06-07-2017 21:35:30 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *waifu
+06-07-2017 21:35:40 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *sombra
+06-07-2017 21:36:07 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *cykablyat
+06-07-2017 21:36:27 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *spam
+06-07-2017 21:37:17 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *b1nzy
+06-07-2017 21:37:22 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 21:37:41 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 21:38:00 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *cat
+06-07-2017 21:38:15 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 21:38:38 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:38:51 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:38:51 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *quoteaf
+06-07-2017 21:39:20 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:43:11 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:43:25 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:43:26 [ERROR] An error occured while executing the quoteaf command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/quotes/2.png'
+06-07-2017 21:43:35 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *quoteaf
+06-07-2017 21:44:27 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:44:27 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:44:48 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *quoteaf
+06-07-2017 21:44:58 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *quoteaf
+06-07-2017 21:45:13 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:45:21 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:45:30 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:45:39 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:45:51 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *ecostats
+06-07-2017 21:45:52 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *nicememe
+06-07-2017 21:46:22 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:46:32 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *slotmachine
+06-07-2017 21:46:41 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *ecostats
+06-07-2017 21:47:19 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *internetrules
+06-07-2017 21:48:22 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *yiffinhell
+06-07-2017 21:50:53 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *thonk
+06-07-2017 21:50:53 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *thonk
+06-07-2017 21:51:27 [Command] [Private Message] [210976716095619072/AoiNaito#7122]: *thonk
+06-07-2017 21:51:39 [ERROR] Failed to load extension commands.reactions
+SyntaxError: EOL while scanning string literal (reactions.py, line 116)
+06-07-2017 21:53:18 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *booti
+06-07-2017 21:53:30 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 21:53:32 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 21:53:36 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 21:55:50 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *nolewding
+06-07-2017 21:55:50 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *nolewding
+06-07-2017 21:56:14 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *nolewding
+06-07-2017 21:56:20 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *lewd
+06-07-2017 21:57:00 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *weirdshit
+06-07-2017 21:57:16 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *delet
+06-07-2017 22:00:18 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *yaoi
+06-07-2017 22:01:36 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *f
+06-07-2017 22:01:36 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *f
+06-07-2017 22:01:36 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *f
+06-07-2017 22:01:52 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *f
+06-07-2017 22:02:16 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *say
+06-07-2017 22:02:16 [ERROR] An error occured while executing the say command: message is a required argument that is missing.
+06-07-2017 22:05:27 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *nineteendays
+06-07-2017 22:05:35 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *fujoshi
+06-07-2017 22:05:36 [ERROR] An error occured while executing the fujoshi command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/fujoshi.png'
+06-07-2017 22:05:57 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *fujoshi
+06-07-2017 22:09:19 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *chocolate
+06-07-2017 22:15:02 [Command] [315278957354156033/Crepu Nation] [232664760187879435/po„„ƒ¿„„o#2472]: *frork
+06-07-2017 22:20:18 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:20:18 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:20:18 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:20:18 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:20:35 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:20:36 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:20:48 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *chocolate
+06-07-2017 22:21:47 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:21:52 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *semehands
+06-07-2017 22:22:14 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *nineteendays
+06-07-2017 22:23:41 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *chocolate
+06-07-2017 22:24:17 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *yaoi
+06-07-2017 22:24:20 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *breadandbutter
+06-07-2017 22:24:35 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *breadandbutter
+06-07-2017 22:24:48 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *breadandbutter
+06-07-2017 22:25:09 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *frork
+06-07-2017 22:25:16 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *thonk
+06-07-2017 22:25:47 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *chocolate
+06-07-2017 22:25:51 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *weirdshit
+06-07-2017 22:26:28 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *nolewding
+06-07-2017 22:26:36 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *lewd
+06-07-2017 22:26:44 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *booti
+06-07-2017 22:27:04 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 22:27:27 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 22:28:17 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *rank
+06-07-2017 22:28:48 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 22:29:03 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 22:29:18 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 22:29:34 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *jesus
+06-07-2017 22:29:34 [ERROR] An error occured while executing the jesus command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/jesus.png'
+06-07-2017 22:29:43 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *cat
+06-07-2017 22:30:11 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *jesus
+06-07-2017 22:30:41 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *help commands
+06-07-2017 22:31:35 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *waifu
+06-07-2017 22:31:41 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *yaoi
+06-07-2017 22:32:10 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *boi
+06-07-2017 22:32:30 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *tableflip
+06-07-2017 22:32:36 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *unflip
+06-07-2017 22:33:25 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *dailyroses <@137387912965783554>
+06-07-2017 22:35:04 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *kegs
+06-07-2017 22:35:46 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *frork
+06-07-2017 22:35:46 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *frork
+06-07-2017 22:36:12 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *frork
+06-08-2017 16:36:17 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *sendnewts
+06-08-2017 16:36:27 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *newts
+06-08-2017 16:36:27 [ERROR] An error occured while executing the newts command: Command raised an exception: PermissionError: [Errno 13] Permission denied: 'assets/imgs/newts'
+06-08-2017 16:37:12 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *sendnewts
+06-08-2017 16:37:29 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *newts
+06-08-2017 16:37:29 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *newts
+06-08-2017 16:37:29 [ERROR] An error occured while executing the newts command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/newts/3.png'
+06-08-2017 16:38:50 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *newts
+06-08-2017 16:38:50 [ERROR] An error occured while executing the newts command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/newts/6.png'
+06-08-2017 16:41:58 [ERROR] An error occured while executing the newts command: Command raised an exception: FileNotFoundError: [Errno 2] No such file or directory: 'assets/imgs/newts/6.jpg'
+06-08-2017 16:43:05 [ERROR] An error occured while executing the headpat command: Command raised an exception: TypeError: the JSON object must be str, bytes or bytearray, not 'list'
+06-08-2017 16:45:41 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *dailyroses
+06-08-2017 16:46:48 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *semehands
+06-08-2017 16:48:02 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *semehands
+06-08-2017 17:09:09 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *newts
+06-08-2017 17:09:17 [Command] [315278957354156033/Crepu Nation] [210976716095619072/AoiNaito#7122]: *sendnewts
+06-08-2017 19:06:21 [Command] [315278957354156033/Crepu Nation] [168155070255464450/NekoCrepe#4205]: *lemmesmash
+06-08-2017 19:08:34 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *lemmesmash
+06-08-2017 19:08:42 [Command] [315278957354156033/Crepu Nation] [305184931309420545/Pepper#8011]: *lemmesmash
