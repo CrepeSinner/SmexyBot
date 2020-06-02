@@ -384,15 +384,16 @@ class Fun(commands.Cog):
     @commands.command()
     async def sendnewts(self, ctx):
         """send me newts"""
-        await self.bot.send_typing(ctx.message.channel)
+        await ctx.channel.send_typing(ctx.message.channel)
         await self.bot.send_file(ctx.message.channel, "assets/imgs/newts.png")
         await self.bot.say("Send me newts, yeh?!")
 
     @commands.command()
     async def newts(self, ctx):
         """send me newts"""
-        await self.bot.trigger_typing()
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/newts/{}.jpg".format(random.randint(1, len([file for file in os.listdir("assets/imgs/newts")]))))
+        await ctx.channel.send_typing(ctx.message.channel)
+        await ctx.send(file=discord.File("assets/imgs/cykablyat.jpg"))
+        await ctx.send(file=discord.File("assets/imgs/newts/{}.jpg".format(random.randint(1, len([file for file in os.listdir("assets/imgs/newts")])))))
 
     @commands.command()
     async def lemmesmash(self, ctx):
