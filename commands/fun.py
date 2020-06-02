@@ -78,7 +78,8 @@ class Fun(commands.Cog):
     async def cykablyat(self, ctx):
         """Cyka blyat!"""
         await ctx.channel.trigger_typing()
-        await ctx.send(file=discord.File("assets/imgs/cykablyat.jpg"))
+        with open('assets/imgs/cykablyat.jpg', 'rb') as fp:
+            await ctx.channel.send(file=discord.File(fp, 'cykablyat.jpg'))
 
     @commands.command()
     async def sombra(self, ctx):
@@ -405,7 +406,8 @@ class Fun(commands.Cog):
     async def rekt(self, ctx):
         """#REKT"""
         await ctx.channel.trigger_typing()
-        await ctx.send(file=discord.File("assets/imgs/reactions/rekt.gif"))
+        with open('assets/imgs/reactions/rekt.gif', 'rb') as fp:
+            await ctx.channel.send(file=discord.File(fp, 'rekt.gif'))
 
     @commands.command()
     async def roasted(self, ctx):

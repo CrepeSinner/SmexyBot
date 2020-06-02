@@ -6,10 +6,6 @@
 #Py
 __pycache__/
 
-# Bot files
-data/Ruby.db
-config/config.ini
-
 # Windows nonsense
 ## Windows image file caches
 Thumbs.db
@@ -59,5 +55,8 @@ Temporary Items
 .apdisk
 
 # VSCode
-.vscode/
-.vscode/settings.json
+.vscode/*
+
+# Bot files
+config/config.ini
+logs/latest.log
