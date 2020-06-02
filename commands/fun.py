@@ -369,7 +369,7 @@ class Fun(commands.Cog):
         """OwO, owoify something >w<"""
         await ctx.send(owoify(text))
 
-     @commands.command()
+    @commands.command()
     async def jesus(self, ctx):
         """jesus"""
         await self.bot.send_typing(ctx.message.channel)

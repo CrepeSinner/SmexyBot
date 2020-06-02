@@ -8,7 +8,6 @@ __pycache__/
 
 # Bot files
 data/Ruby.db
-logs/
 config/config.ini
 
 # Windows nonsense
