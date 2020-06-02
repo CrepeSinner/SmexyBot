@@ -41,8 +41,7 @@ extensions = [
     "commands.moderation",
     "commands.configuration",
     "commands.nsfw",
-    "commands.music",
-    "commands.reactions"
+    "commands.music"
 ]
 
 # Thy changelog
