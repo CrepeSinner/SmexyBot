@@ -372,21 +372,21 @@ class Fun(commands.Cog):
     @commands.command()
     async def jesus(self, ctx):
         """jesus"""
-        await self.bot.send_typing(ctx.message.channel)
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/jesus.jpg")
+        await ctx.channel.trigger_typing()
+        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/jesus.jpg"))
 
     @commands.command()
     async def kegs(self, ctx):
         """kegs"""
-        await self.bot.send_typing(ctx.message.channel)
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/kegs.png")
+        await ctx.channel.trigger_typing()
+        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/kegs.png"))
 
     @commands.command()
     async def sendnewts(self, ctx):
         """send me newts"""
-        await ctx.channel.send_typing(ctx.message.channel)
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/newts.png")
-        await self.bot.say("Send me newts, yeh?!")
+        await ctx.channel.trigger_typing()
+        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/newts.png"))
+        await ctx.send("Send me newts, yeh?!")
 
     @commands.command()
     async def newts(self, ctx):
@@ -397,9 +397,9 @@ class Fun(commands.Cog):
     @commands.command()
     async def lemmesmash(self, ctx):
         """send me newts"""
-        await self.bot.send_typing(ctx.message.channel)
-        await self.bot.send_file(ctx.message.channel, "assets/imgs/lemmesmash.gif")
-        await self.bot.say("You want sum fuk?")
+        await ctx.channel.trigger_typing()
+        await ctx.send(file=discord.File(ctx.message.channel, "assets/imgs/lemmesmash.gif"))
+        await ctx.send("You want sum fuk?")
 
 def setup(bot):
     bot.add_cog(Fun(bot))
