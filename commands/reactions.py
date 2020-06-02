@@ -6,11 +6,7 @@ class Reactions(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command()
-    async def ropestore(self, ctx):
-        """Kill yourselve."""
-        await ctx.send("http://ropestore.org")
-
+    
     @commands.command()
     async def rekt(self, ctx):
         """#REKT"""
@@ -19,7 +15,7 @@ class Reactions(commands.Cog):
 
     @commands.command()
     async def roasted(self, ctx):
-        """MY NIGGA YOU JUST GOT ROASTED!"""
+        """YOU JUST GOT ROASTED!"""
         await ctx.channel.trigger_typing()
         await ctx.send(file=discord.File("assets/imgs/reactions/roasted.gif"))
 

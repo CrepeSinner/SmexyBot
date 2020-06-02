@@ -369,5 +369,37 @@ class Fun(commands.Cog):
         """OwO, owoify something >w<"""
         await ctx.send(owoify(text))
 
+     @commands.command()
+    async def jesus(self, ctx):
+        """jesus"""
+        await self.bot.send_typing(ctx.message.channel)
+        await self.bot.send_file(ctx.message.channel, "assets/imgs/jesus.jpg")
+
+    @commands.command()
+    async def kegs(self, ctx):
+        """kegs"""
+        await self.bot.send_typing(ctx.message.channel)
+        await self.bot.send_file(ctx.message.channel, "assets/imgs/kegs.png")
+
+    @commands.command()
+    async def sendnewts(self, ctx):
+        """send me newts"""
+        await self.bot.send_typing(ctx.message.channel)
+        await self.bot.send_file(ctx.message.channel, "assets/imgs/newts.png")
+        await self.bot.say("Send me newts, yeh?!")
+
+    @commands.command()
+    async def newts(self, ctx):
+        """send me newts"""
+        await self.bot.send_typing(ctx.message.channel)
+        await self.bot.send_file(ctx.message.channel, "assets/imgs/newts/{}.jpg".format(random.randint(1, len([file for file in os.listdir("assets/imgs/newts")]))))
+
+    @commands.command()
+    async def lemmesmash(self, ctx):
+        """send me newts"""
+        await self.bot.send_typing(ctx.message.channel)
+        await self.bot.send_file(ctx.message.channel, "assets/imgs/lemmesmash.gif")
+        await self.bot.say("You want sum fuk?")
+
 def setup(bot):
     bot.add_cog(Fun(bot))
