@@ -391,8 +391,7 @@ class Fun(commands.Cog):
     @commands.command()
     async def newts(self, ctx):
         """send me newts"""
-        await ctx.channel.send_typing(ctx.message.channel)
-        await ctx.send(file=discord.File("assets/imgs/cykablyat.jpg"))
+        await ctx.channel.trigger_typing()
         await ctx.send(file=discord.File("assets/imgs/newts/{}.jpg".format(random.randint(1, len([file for file in os.listdir("assets/imgs/newts")])))))
 
     @commands.command()
