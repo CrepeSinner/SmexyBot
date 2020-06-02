@@ -409,8 +409,8 @@ class Fun(commands.Cog):
         await ctx.channel.trigger_typing()
         """ convert animated gif into MP4 to support discord lame ass """
         ff = ffmpy.FFmpeg(
-            input={'assets/imgs/reactions/rekt.gif': None},
-            output={'assets/imgs/reactions/rekt.mp4': None}
+            inputs={'assets/imgs/reactions/rekt.gif': None},
+            outputs={'assets/imgs/reactions/rekt.mp4': None}
         )
         ff.run()
 
